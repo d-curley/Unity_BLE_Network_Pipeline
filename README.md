@@ -1,4 +1,4 @@
-# Arduino_BLE_Comms
+# Unity_BLE_Network_Pipeline
 
 Objective: This project has been driven by my obsession and vision to use physical objects and sensors in our world to control digital assets and environments for games and interactives. Combining my new Unity proficiency with my background in robotics, I have developed a pipeline to bring real life data into my Unity applications. I found IoT web APIs to be too slow to provide a sense of real-time interaction, so I pivoted to BLE which has proven to be seamless. The Arduino with BLE allows me to make my own custom controllers for players to engage in unique ways. Further, I can bring elements of the player’s real environment into their game, controlling game elements based on their lighting, sound, and even temperature of the room.
 
